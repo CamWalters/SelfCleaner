@@ -3,5 +3,8 @@ The primary goal of the robot is to navigate and clean a given area without huma
 
 | Hardware  |  |   |
 | ------------- | ------------- | ------------- |
-| Freenove 4WD Extension Board  | Freenove Control Board  | 4 Driver Wheels  |
-| 1 Servo Motor  | 4 Driver Wheels  | 4 Driver Wheels  |
+| Freenove 4WD Extension Board  | Freenove Control Board  | 4 Wheel Motors  |
+| 1 Servo Motor  | 4 Driver Wheels  | Line-Tracking Infrared Sensor  |
+| Ultrasonic Sensor Connector  | WS2812B_LED_controller  | WS2812B_LED  |
+| Ultrasonic Sensor  | 2 Slot Lithium Battery Holder  | IR Remote  |
+| USB Cable  | Wires  | IR  Recievier Module  |
