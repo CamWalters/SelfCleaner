@@ -10,3 +10,5 @@ The primary goal of the robot is to navigate and clean a given area without huma
 | USB Cable  | Male to Male Wires  | IR  Recievier Module  |
 | Elegoo MEGA2560 Arduino Uno | Breadboard | LCD 1602 |
 | Potentiometer |
+
+https://youtu.be/Jsp0BX535A8
